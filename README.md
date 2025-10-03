@@ -8,6 +8,8 @@ La construction de portefeuille moderne exige des outils capables d'intégrer de
 
 Ce projet propose un cadre d'optimisation de portefeuille avancé qui dépasse ces limites. L'objectif est de développer une stratégie qui maximise le rendement ajusté du risque tout en respectant un cahier des charges d'investissement strict, incluant des contraintes d'allocation hiérarchiques et un contrôle de l'erreur de suivi (*Tracking Error*).
 
+**➡️ [Voir le Notebook : `quantitative_portfolio_optimization.ipynb`](./quantitative_portfolio_optimization.ipynb)**
+
 ## Objectif du Projet
 
 Ce projet vise à concevoir, optimiser et valider une stratégie d'allocation d'actifs multi-classe. L'idée centrale est de démontrer l'efficacité d'un processus de gestion de portefeuille dynamique, basé sur un rééquilibrage périodique et une évaluation rigoureuse de la performance historique.
