@@ -1,3 +1,5 @@
+![Image de couverture du projet](images/image_couverture.png)
+
 # Optimisation Stratégique d'un Portefeuille Multi-Actifs 
 
 ## Introduction
